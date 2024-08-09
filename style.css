@@ -1,0 +1,16 @@
+
+body{
+       background-color: orange; 
+}  
+
+button{
+    border-radius: 15px;
+    background-color: rgb(255, 251, 247);
+    color: black;
+    padding: 5px 12px;
+    width: 200px;
+    height: 40px; 
+    position: relative; 
+    left: 600px;
+    top: 200px;
+}
